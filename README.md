@@ -79,6 +79,8 @@ int main() {
 
     return 0;
 }
-Author
-Abdul Ahad
+Author:
+
+{ Abdul Ahad }
+
 Feel free to contribute, report issues, or suggest improvements! 🎮
